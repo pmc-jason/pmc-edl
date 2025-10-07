@@ -1,0 +1,10 @@
+codeharborrs.ru    #test Comment 1
+*.codeharborrs.ru  #test Comment 2
+artclass.site
+*.artclass.site
+*.nanosystems.it
+dispatcher.nanosystems.com
+macsimizers.com  #2025-Sep
+*.macsimizers.com  #2025-Sep
+teams-download.top  #2025-Sep 
+*.teams-download.top  #2025-Sep
