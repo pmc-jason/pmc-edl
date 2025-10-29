@@ -1,3 +1,5 @@
+printwithwave.co   #Wave Browser Ext
+*.printwithwave.co   #Wave Browser Ext
 codeharborrs.ru    #test Comment 1
 *.codeharborrs.ru  #test Comment 2
 artclass.site
